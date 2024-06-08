@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transactions>
+    <transaction>
+        <Amount>1000.0</Amount>
+        <OriginalCurrency>USD</OriginalCurrency>
+        <TargetCurrency>EUR</TargetCurrency>
+    </transaction>
+    <transaction>
+        <Amount>500.0</Amount>
+        <OriginalCurrency>EUR</OriginalCurrency>
+        <TargetCurrency>GBP</TargetCurrency>
+    </transaction>
+</transactions>

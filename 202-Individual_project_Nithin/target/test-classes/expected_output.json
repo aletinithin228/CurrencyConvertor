@@ -1,0 +1,95 @@
+{
+    "transactions": [
+        {
+            "Amount": 1000,
+            "OriginalCurrency": "USD",
+            "TargetCurrency": "EUR",
+            "ConvertedAmount": "940",
+            "Status": "Success"
+        },
+        {
+            "Amount": 500,
+            "OriginalCurrency": "EUR",
+            "TargetCurrency": "GBP",
+            "ConvertedAmount": "430",
+            "Status": "Success"
+        },
+        {
+            "Amount": 200,
+            "OriginalCurrency": "ABC",
+            "TargetCurrency": "USD",
+            "ConvertedAmount": "",
+            "Status": "Invalid original currency code"
+        },
+        {
+            "Amount": 150,
+            "OriginalCurrency": "USD",
+            "TargetCurrency": "XYZ",
+            "ConvertedAmount": "",
+            "Status": "Invalid target currency code"
+        },
+        {
+            "Amount": 300,
+            "OriginalCurrency": "GBP",
+            "TargetCurrency": "INR",
+            "ConvertedAmount": "31,104",
+            "Status": "Success"
+        },
+        {
+            "Amount": 400,
+            "OriginalCurrency": "AUD",
+            "TargetCurrency": "CAD",
+            "ConvertedAmount": "356",
+            "Status": "Success"
+        },
+        {
+            "Amount": 900,
+            "OriginalCurrency": "CAD",
+            "TargetCurrency": "USD",
+            "ConvertedAmount": "657",
+            "Status": "Success"
+        },
+        {
+            "Amount": 500,
+            "OriginalCurrency": "CHF",
+            "TargetCurrency": "AUD",
+            "ConvertedAmount": "845",
+            "Status": "Success"
+        },
+        {
+            "Amount": 600,
+            "OriginalCurrency": "USD",
+            "TargetCurrency": "CHF",
+            "ConvertedAmount": "546",
+            "Status": "Success"
+        },
+        {
+            "Amount": 700,
+            "OriginalCurrency": "JPY",
+            "TargetCurrency": "USD",
+            "ConvertedAmount": "4.55",
+            "Status": "Success"
+        },
+        {
+            "Amount": 1500,
+            "OriginalCurrency": "BTC ",
+            "TargetCurrency": "INR",
+            "ConvertedAmount": "",
+            "Status": "Invalid original currency code"
+        },
+        {
+            "Amount": 2700,
+            "OriginalCurrency": "USD",
+            "TargetCurrency": "123",
+            "ConvertedAmount": "",
+            "Status": "Invalid target currency should not contain numbers"
+        },
+        {
+            "Amount": 3500,
+            "OriginalCurrency": "677",
+            "TargetCurrency": "GBP",
+            "ConvertedAmount": "",
+            "Status": "Invalid original currency should not contain numbers"
+        }
+    ]
+}

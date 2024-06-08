@@ -1,0 +1,1 @@
+{"transactions":[{"Amount":1000.0,"OriginalCurrency":"USD","TargetCurrency":"EUR","ConvertedAmount":940.0,"Status":"Success"},{"Amount":500.0,"OriginalCurrency":"EUR","TargetCurrency":"GBP","ConvertedAmount":430.0,"Status":"Success"}]}

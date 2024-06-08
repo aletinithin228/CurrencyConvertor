@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transactionResults>
+    <transactionResult>
+        <Amount>1000.0</Amount>
+        <OriginalCurrency>USD</OriginalCurrency>
+        <TargetCurrency>EUR</TargetCurrency>
+        <ConvertedAmount>940.0</ConvertedAmount>
+        <Status>Success</Status>
+    </transactionResult>
+    <transactionResult>
+        <Amount>500.0</Amount>
+        <OriginalCurrency>EUR</OriginalCurrency>
+        <TargetCurrency>GBP</TargetCurrency>
+        <ConvertedAmount>430.0</ConvertedAmount>
+        <Status>Success</Status>
+    </transactionResult>
+</transactionResults>
